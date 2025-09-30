@@ -1,4 +1,4 @@
 # apnacollege-demo
 my first understandable repo
 <br>
-Author - Malaika Sohail
+Author - Malaika Sohail(apna college)
